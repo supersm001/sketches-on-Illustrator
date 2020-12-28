@@ -5,16 +5,16 @@
 # sketch 2
 
 
-![](sketch 2.jpg)
+![](preview2.jpg)
 
 
 # sketch 3
 
 
-![](sketch 3/sketch 3.jpg)
+![](preview3.jpg)
 
 
 # sketch 4
 
 
-![](sketch 4/sketch 4.jpg)
+![](preview4.jpg)
