@@ -5,7 +5,7 @@
 # sketch 2
 
 
-![](sketch 2/sketch 2.jpg)
+![](sketch 2.jpg)
 
 
 # sketch 3
